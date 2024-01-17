@@ -1,5 +1,7 @@
 # 01_picture_viewer
-A simple tKinter picture viewer with a slider and keyboard shortcuts and gif-making possibility
+A simple Python 3 tKinter picture viewer with a slider and keyboard shortcuts and gif-making possibility.
+Python 3.7+ required (f-strings used)
+
 Keyboard button bindings:
  - left:  + 1
  - right: - 1
